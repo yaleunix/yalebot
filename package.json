@@ -5,6 +5,7 @@
   "author": "nick@silkey.org",
   "description": "dat hubot tho.",
   "dependencies": {
+    "htmlparser": "^1.7.7",
     "hubot": "^2.13.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-giphy-gifme": "^0.1.2",
