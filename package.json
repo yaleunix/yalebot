@@ -21,6 +21,7 @@
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
+    "jsdom": "^5.4.3",
     "nodepie": "^0.6.7",
     "soupselect": "^0.2.0"
   },
