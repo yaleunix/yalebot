@@ -17,5 +17,6 @@
   "lmgtfy.coffee",
   "lolz.coffee",
   "make_me.coffee",
-  "reload.coffee"
+  "reload.coffee",
+  "uptime.coffee"
 ]
