@@ -1,5 +1,6 @@
 [
   "hubot-diagnostics",
+  "hubot-figlet",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-gifgif",
